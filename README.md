@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hello There
+im Baby Im Too OP
+
+# Tools and Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+# My Github Stats
+![zaib botaq GitHub stats](https://github-readme-stats.vercel.app/api?username=bbimop12&show_icons=true&theme=tokyonight&count_private=true)
+![zaid botaq Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bbimop12&theme=tokyo-night)
 
 <!--
 **bbimop12/bbimop12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
