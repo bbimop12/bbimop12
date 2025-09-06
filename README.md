@@ -1,5 +1,5 @@
 # Hello There
-im Baby Im Too OP
+im Baby Too OP
 
 # Tools and Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
